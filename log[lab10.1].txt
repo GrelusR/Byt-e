@@ -1,0 +1,43 @@
+commit fa6925935ded9c0757acbb809ff5921031327d73
+Merge: 3fefba3 2db830a
+Author: Grelus <s13720@pjwstk.edu.pl>
+Date:   Thu Dec 20 22:01:36 2018 +0100
+
+    Merge branch 'branch_12' into branch_merge
+    Fixed conflicts and added final file
+
+commit 2db830ac58cf649591b139c3e7657ab36594fea0
+Author: Grelus <s13720@pjwstk.edu.pl>
+Date:   Thu Dec 20 21:58:01 2018 +0100
+
+    modified test1 on second branch
+
+ test1 | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3fefba34b12c9c419f01715a1d62a8eea17308b6
+Author: Grelus <s13720@pjwstk.edu.pl>
+Date:   Thu Dec 20 21:51:37 2018 +0100
+
+    modified test1 on first branch
+
+ test1 | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit bf1c01c204f459f12c99e528bb09f5db6a7b975a
+Author: Grelus <s13720@pjwstk.edu.pl>
+Date:   Thu Dec 20 21:50:20 2018 +0100
+
+    added second test
+
+ test2 | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 661aeae3a3b1724cfa4983f338500b963dcf6371
+Author: Grelus <s13720@pjwstk.edu.pl>
+Date:   Thu Dec 20 21:49:55 2018 +0100
+
+    added first file
+
+ test1 | 1 +
+ 1 file changed, 1 insertion(+)
